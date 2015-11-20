@@ -92,7 +92,7 @@ encoding utf-8
 Sheet 1 3
 Title "MOD1BASE"
 Date "2015-11-17"
-Rev "preA"
+Rev "A"
 Comp "SEMIANALOG"
 Comment1 ""
 Comment2 ""
